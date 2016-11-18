@@ -1,0 +1,22 @@
+
+footer {
+	text-align: center;
+}
+
+.portfolio{
+	width: 200px;
+	height: 200px;
+}
+
+.project {
+	width: 200px;
+	margin right: 0;
+}
+
+.panel-title {
+	text-align: center;
+}
+
+fieldset {
+	padding-left: 20px;
+}
